@@ -3,4 +3,4 @@ Config = {
     logoscript = "75016756889347"
     tacgia = "PhiAnhDepTrai"
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/justcallmekane/Banana-s-Hub/refs/heads/main/BLOX%20FRUIT"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
