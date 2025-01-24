@@ -565,8 +565,8 @@ local Module = {} do
       _ENV.OnFarm = false
 
       local Message = Instance.new("Message", workspace)
-      _ENV.Phi_Anh_ĐZ_Hub_error = Message
-      Message.Text = (`Phi_Anh_ĐZ_Hub error [ {Settings.RunningOption or "Null"} ] {ErrorMessage}`)
+      _ENV.redz_hub_error = Message
+      Message.Text = (`redz-Hub error [ {Settings.RunningOption or "Null"} ] {ErrorMessage}`)
     end)
   end
 
